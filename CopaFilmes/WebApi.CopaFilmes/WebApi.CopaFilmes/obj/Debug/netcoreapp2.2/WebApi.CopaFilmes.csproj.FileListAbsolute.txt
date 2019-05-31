@@ -1,0 +1,14 @@
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\bin\Debug\netcoreapp2.2\WebApi.CopaFilmes.deps.json
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\bin\Debug\netcoreapp2.2\WebApi.CopaFilmes.runtimeconfig.json
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\bin\Debug\netcoreapp2.2\WebApi.CopaFilmes.runtimeconfig.dev.json
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\bin\Debug\netcoreapp2.2\WebApi.CopaFilmes.dll
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.csprojAssemblyReference.cache
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.csproj.CoreCompileInputs.cache
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.RazorAssemblyInfo.cache
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.RazorAssemblyInfo.cs
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.AssemblyInfoInputs.cache
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.AssemblyInfo.cs
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.RazorTargetAssemblyInfo.cache
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\bin\Debug\netcoreapp2.2\WebApi.CopaFilmes.pdb
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.dll
+D:\Leo\Projetos\Lambda3\CopaFilmes\WebApi.CopaFilmes\WebApi.CopaFilmes\obj\Debug\netcoreapp2.2\WebApi.CopaFilmes.pdb
